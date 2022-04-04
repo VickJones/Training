@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <recordTypes>
+        <fullName>Commercial_Loan_Record_Type</fullName>
+        <active>true</active>
+        <compactLayoutAssignment>Loan_Layout</compactLayoutAssignment>
+        <description>This Record Type will Apply to Commercial Loans</description>
+        <label>Commercial Loan Record Type</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Consumer_Loan_Record_Type</fullName>
+        <active>true</active>
+        <compactLayoutAssignment>Loan_Layout</compactLayoutAssignment>
+        <description>This Record Type will Apply to Consumer Loans</description>
+        <label>Consumer Loan Record Type</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Government_Guaranteed_Record_Type</fullName>
+        <active>true</active>
+        <compactLayoutAssignment>Loan_Layout</compactLayoutAssignment>
+        <description>This Record Type will Apply to Government Guaranteed Loans</description>
+        <label>Government Guaranteed Record Type</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Guidance_LOC_Sub_Loan_Record_Type</fullName>
+        <active>true</active>
+        <compactLayoutAssignment>Loan_Layout</compactLayoutAssignment>
+        <description>This Record Type will Apply to Guidance LOC Sub Loans</description>
+        <label>Guidance LOC Sub Loan Record Type</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Guidance_Line_Record_Type</fullName>
+        <active>true</active>
+        <compactLayoutAssignment>Loan_Layout</compactLayoutAssignment>
+        <description>This Record Type will Apply to Guidance Lines of Credit</description>
+        <label>Guidance Line Record Type</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>LLC_BI__Start</fullName>
+        <active>false</active>
+        <compactLayoutAssignment>Loan_Layout</compactLayoutAssignment>
+        <description>This is the layout that&apos;s shown when &quot;New Record&quot; is clicked, only showing the basic info, and product selection info.</description>
+        <label>Start</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>LLC_BI__Test_Product_Type_1</fullName>
+        <active>false</active>
+        <compactLayoutAssignment>Loan_Layout</compactLayoutAssignment>
+        <description>Used for Unit Tests</description>
+        <label>Test Product Type 1 - Test Product 1</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>LLC_BI__Test_Product_Type_1v2</fullName>
+        <active>false</active>
+        <compactLayoutAssignment>Loan_Layout</compactLayoutAssignment>
+        <description>testing the product type broad match</description>
+        <label>Test Product Type 1</label>
+    </recordTypes>
+</CustomObject>
