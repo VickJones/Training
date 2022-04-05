@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01e2j41W-VickFormsDeployment:
+          path: dataset/01e2j41W-VickFormsDeployment
+          prefix: ncinoarchs
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2022-04-05 19:55:06'

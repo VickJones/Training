@@ -1,0 +1,49 @@
+{
+  "name": "1_nFORMS__Form_Template__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "nFORMS__Closing_Checklist__c",
+    "nFORMS__Description__c",
+    "nFORMS__Enable_FLS__c",
+    "nFORMS__Enforce_Masking__c",
+    "nFORMS__Filter__c",
+    "nFORMS__Form_Purpose__c",
+    "nFORMS__Is_Active__c",
+    "nFORMS__Output_Type__c",
+    "nFORMS__Primary_Object__c",
+    "nFORMS__Save_To_Docman__c",
+    "nFORMS__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "CreatedById": "0058c00000AZElEAAX",
+      "CreatedDate": "2022-04-05T19:33:24.000Z",
+      "Id": "a4z8c000002whqvAAA",
+      "IsDeleted": "",
+      "LastModifiedById": "0058c00000AZElEAAX",
+      "LastModifiedDate": "2022-04-05T19:33:24.000Z",
+      "Name": "Test",
+      "OwnerId": "0058c00000AZElEAAX",
+      "SystemModstamp": "",
+      "nFORMS__Closing_Checklist__c": "",
+      "nFORMS__Description__c": "",
+      "nFORMS__Enable_FLS__c": "true",
+      "nFORMS__Enforce_Masking__c": "true",
+      "nFORMS__Filter__c": "",
+      "nFORMS__Form_Purpose__c": "General",
+      "nFORMS__Is_Active__c": "false",
+      "nFORMS__Output_Type__c": ".txt",
+      "nFORMS__Primary_Object__c": "Account",
+      "nFORMS__Save_To_Docman__c": "false",
+      "nFORMS__lookupKey__c": "42232570608653385"
+    }
+  }
+}

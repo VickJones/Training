@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>54.0</version>
+    <types>
+        <members>nFORMS__Form_Template__c.nFORMS__Closing_Checklist__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__Description__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__Enable_FLS__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__Enforce_Masking__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__Filter__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__Form_Purpose__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__Is_Active__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__Output_Type__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__Primary_Object__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__Save_To_Docman__c</members>
+        <members>nFORMS__Form_Template__c.nFORMS__lookupKey__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>nFORMS__Form_Template__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>nFORMS</members>
+        <name>InstalledPackage</name>
+    </types>
+    <types>
+        <members>nFORMS__Form_Template__c.nFORMS__All</members>
+        <name>ListView</name>
+    </types>
+</Package>
