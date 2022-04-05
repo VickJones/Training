@@ -15051,6 +15051,7 @@
         <members>LLC_BI__Loan_Modification__c.LLC_BI__Objective__c</members>
         <members>LLC_BI__Loan_Modification__c.LLC_BI__Owner__c</members>
         <members>LLC_BI__Loan_Modification__c.LLC_BI__Status__c</members>
+        <members>LLC_BI__Loan__c.Loan_Associated_with_affiliated_entity__c</members>
         <members>LLC_BI__Lockbox_Service__c.LLC_BI__Treasury_Service_Reference__c</members>
         <members>LLC_BI__Lockbox_Service__c.LLC_BI__Type__c</members>
         <members>LLC_BI__Lockbox_Service__c.LLC_BI__Vendor_Selection__c</members>
@@ -20008,6 +20009,7 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>Affiliated_Borrower</members>
         <members>CLA_Draw_Auto_Submit_for_Approval</members>
         <members>CRA_Reportable_Invocable</members>
         <members>Commercial_LoanAutoDecision</members>
@@ -20048,6 +20050,7 @@
         <name>Flow</name>
     </types>
     <types>
+        <members>Affiliated_Borrower</members>
         <members>CLA_Draw_Auto_Submit_for_Approval</members>
         <members>CRA_Reportable_Invocable</members>
         <members>Commercial_LoanAutoDecision</members>
