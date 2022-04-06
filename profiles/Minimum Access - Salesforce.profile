@@ -43279,7 +43279,7 @@
         <apexClass>nFUSE__XServiceException</apexClass>
         <enabled>true</enabled>
     </classAccesses>
-    <custom>true</custom>
+    <custom>false</custom>
     <customMetadataTypeAccesses>
         <enabled>true</enabled>
         <name>NDOC__Static_Resource_Registry__mdt</name>
@@ -78285,6 +78285,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>AddDirectMessageMembers</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AllowViewKnowledge</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
